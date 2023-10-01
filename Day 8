@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main
+{
+float r=2.3;
+float area,peri;
+area=3.14*r*r;
+peri=2*3.14*r;
+printf("radius=%f/n:perimeter=%f/n",area,peri);
+return 0;
+}
